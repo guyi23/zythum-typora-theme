@@ -1,1 +1,2 @@
-> typora主题, 目前只支持深色;
+# GUYI23-ZYTHUM-TYPORA-THEME
+
