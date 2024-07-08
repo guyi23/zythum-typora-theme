@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "repo": "npm run git-flow",
+    "repo": "npm run sass && npm run git-flow",
+    "sass": "sass --no-source-map .",
     "git-flow": "git add . && git commit -m 'chore: commit' && git push origin master"
   },
   "dependencies": {
